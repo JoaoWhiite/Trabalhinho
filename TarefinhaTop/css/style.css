@@ -44,3 +44,36 @@ a
 {
   margin-top: 4%
 }
+#b4
+{
+  margin: 10% 0px 0px 3%;
+  height: 65%
+
+}
+.escrito
+{
+  background-color: white;
+  width: 60%;
+  height:50%;
+  font-family: Comic Sans MS;
+  font-size: 50px;
+  margin: -21% 0px 0px 45%
+}
+#b5
+{
+  color:#666666;
+  font-family: arial;
+  font-size: 20px
+}
+.read
+{
+  background-color: white;
+  font-size:  20px;
+  margin-top:  5%;
+  border-radius: 10px;
+  border: 1px solid black;
+  width: 50%;
+}
+.read:hover
+{
+  background-color: Blue;
